@@ -1,7 +1,7 @@
 {
   "name": "vue-boutique-hotel",
   "version": "0.0.0",
-  "homepage": ".",
+  "homepage": "/vue-inn-booking/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
