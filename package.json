@@ -4,8 +4,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "vercel-dev-helper": "vite --port $PORT",
-    "vdev": "vercel dev --local-config ./vercel-dev.json",
     "preview": "vite preview --port 4173",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
